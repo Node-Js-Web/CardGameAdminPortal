@@ -1,0 +1,26 @@
+
+1- integarte with front-end code ( req.params , req.query )
+
+2- Sql VS no-Sql 
+   * names
+   * schema
+   * complex query
+   * types of no-sql 
+   * structure
+
+4- vertical VS horizontal
+   * how can we do this
+   * pros and cons 
+     * performance
+     * implementation
+     * upgarde
+     * cost
+
+5- how can we decide using sql or no-sql DB?
+   answer these questions according to your project:
+   1- performnace needed ?
+   2- complex queries needed ?
+   3- fixed or predifiend schema ? 
+   4- in the future will the DB scalled or not ?
+
+6- install mongoDB , linkedIn
